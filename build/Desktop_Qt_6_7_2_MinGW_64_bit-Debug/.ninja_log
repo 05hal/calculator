@@ -1,0 +1,17 @@
+# ninja log v6
+27	526	7503201229994522	caculator_autogen/timestamp	8c5c0f9e57b1e3df
+6228	6666	7503201292036924	caculator.exe	17c5cbd1ee67d48d
+27	526	7503201229994522	caculator_autogen/mocs_compilation.cpp	8c5c0f9e57b1e3df
+27	526	7503201229994522	C:/qtcode/caculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/caculator_autogen/timestamp	8c5c0f9e57b1e3df
+27	526	7503201229994522	C:/qtcode/caculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/caculator_autogen/mocs_compilation.cpp	8c5c0f9e57b1e3df
+2748	8920	7502713893938825	CMakeFiles/caculator.dir/caculator_autogen/mocs_compilation.cpp.obj	5e3d7a510673cbe2
+2776	8768	7502713894211074	CMakeFiles/caculator.dir/main.cpp.obj	eca4cceb1ec82540
+529	6228	7503201235030392	CMakeFiles/caculator.dir/mainwindow.cpp.obj	f118cc33c5bbd763
+604	2247	7503201235796465	CMakeFiles/caculator.dir/stack.cpp.obj	1c0404453b2f21ae
+557	5691	7503201235296180	CMakeFiles/caculator.dir/evaluate.cpp.obj	7519fe9cca533706
+32	430	7503232040058024	caculator_autogen/timestamp	8c5c0f9e57b1e3df
+32	430	7503232040058024	caculator_autogen/mocs_compilation.cpp	8c5c0f9e57b1e3df
+32	430	7503232040058024	C:/qtcode/caculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/caculator_autogen/timestamp	8c5c0f9e57b1e3df
+32	430	7503232040058024	C:/qtcode/caculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/caculator_autogen/mocs_compilation.cpp	8c5c0f9e57b1e3df
+434	5535	7503232044080237	CMakeFiles/caculator.dir/mainwindow.cpp.obj	f118cc33c5bbd763
+5536	6013	7503232095096366	caculator.exe	6f15d597e70a3e83
